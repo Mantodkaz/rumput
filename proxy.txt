@@ -1,0 +1,4 @@
+# (Just example for proxylist) remove all this content and change to your proxy
+http://69.69.69:6969
+socks4://69.69.69:6969
+socks5://69.69.69:6969
